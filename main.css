@@ -1,0 +1,26 @@
+header {
+  background-image: url(img/thinh.jpg);
+  color: aliceblue;
+  padding: 10px;
+  font-family: Helvetica;
+}
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+body {
+  background: white;
+  margin: 0;
+}
+section {
+  padding: 10px;
+}
+.card {
+  background: black;
+  color: azure;
+  padding: 5px;
+  border-radius: 10px;
+}
